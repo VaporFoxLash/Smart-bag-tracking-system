@@ -16,10 +16,10 @@ Visit https://www.arduino.cc/en/software to download and install the IDE.
 * Android Studio
 https://developer.android.com/studio
 
-
+gem 'terminal_commands'
 ## Usage
-$ git clone https://github.com/VaporFoxLash/Smart-bag-tracking-system.git <br />
-$ cd /Smart-bag-trascking-system
+  $ git clone https://github.com/VaporFoxLash/Smart-bag-tracking-system.git <br />
+  $ cd /Smart-bag-trascking-system
 
 ## References
 * https://www.arduino.cc/reference/en/libraries/
