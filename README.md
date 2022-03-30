@@ -14,7 +14,7 @@ https://developer.android.com/studio
 
 
 ## Usage
-$ git clone https://github.com/VaporFoxLash/Smart-bag-trascking-system.git
+$ git clone https://github.com/VaporFoxLash/Smart-bag-tracking-system.git
 $ cd /Smart-bag-trascking-system
 
 ## References
