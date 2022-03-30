@@ -19,7 +19,7 @@ https://developer.android.com/studio
 
 ## Usage
 ```ruby
-  $ git clone https://github.com/VaporFoxLash/Smart-bag-tracking-system.git <br />
+  $ git clone https://github.com/VaporFoxLash/Smart-bag-tracking-system.git
   $ cd /Smart-bag-trascking-system
 ```
 
