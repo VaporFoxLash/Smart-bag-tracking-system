@@ -5,7 +5,7 @@ IOT based tracking system that helps track a lost bag in public spaces or in cas
 * Arduinouno R3 - https://docs.arduino.cc/hardware/uno-rev3
 <img src="https://github.com/VaporFoxLash/Smart-bag-tracking-system/blob/main/Docs/Arduino-UNO.jpg">
 * GSM SIM808 - https://www.simcom.com/product/SIM808.html
-* <img src="https://github.com/VaporFoxLash/Smart-bag-tracking-system/blob/main/Docs/gsm.jpg">
+<img src="https://github.com/VaporFoxLash/Smart-bag-tracking-system/blob/main/Docs/gsm.jpg">
 
 
 ## Software and Technologies
