@@ -20,10 +20,10 @@ https://developer.android.com/studio
 
 ## TODO
 - [ ] Arduino reads and sends data over HTTP
-  - [ ] Read data(location)e.
+  - [ ] Read data(location).
   - [ ] Send data to the databse
   - [ ] Store the longitute and latitude in the database
-- [ ] Android App fetc and display data from the database
+- [ ] Android App fetch and display data from the database
   - [ ] Fetch data
   - [ ] Display the locaion
   - [ ] Get notifications and update the screen
