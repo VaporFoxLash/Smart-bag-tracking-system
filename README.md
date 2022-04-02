@@ -19,13 +19,13 @@ Visit https://www.arduino.cc/en/software to download and install the IDE.
 https://developer.android.com/studio
 
 ## TODO
--[] Arduino reads and sends data over HTTP
-  -[] Read data(location of the device.
-  -[] Send data to the databse
--[] Android App fetc and display data from the database
-  -[] Fetch data
-  -[] Display the locaion
-  -[] Get notifications and update the screen
+- [ ] Arduino reads and sends data over HTTP
+  - [ ] Read data(location of the device.
+  - [ ] Send data to the databse
+- [ ] Android App fetc and display data from the database
+  - [ ] Fetch data
+  - [ ] Display the locaion
+  - [ ] Get notifications and update the screen
 
 ## Usage
 ```ruby
