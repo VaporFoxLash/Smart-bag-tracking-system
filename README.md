@@ -23,6 +23,7 @@ https://developer.android.com/studio
   - [ ] Read data(location).
   - [ ] Send data to the databse
   - [ ] Store the longitute and latitude in the database
+ - [ ] Request the location by sending an SMS
 - [ ] Android App fetch and display data from the database
   - [ ] Fetch data
   - [ ] Display the locaion
