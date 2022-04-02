@@ -27,6 +27,12 @@ https://developer.android.com/studio
   - [ ] Fetch data
   - [ ] Display the locaion
   - [ ] Get notifications and update the screen
+ - [ ] Monitoring
+  - [ ] Monitor the weight of the bag
+  - [ ] Real time location
+  - [ ] The speed at wwhich it's moving(If in motion
+ - [ ] Collect data and improve the system
+ - [ ] Use a more portable device for easy use and carry
 
 ## Usage
 ```ruby
