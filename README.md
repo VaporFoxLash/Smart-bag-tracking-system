@@ -31,7 +31,8 @@ https://developer.android.com/studio
 - [ ] Monitoring
   - [ ] Monitor the weight of the bag
   - [ ] Real time location
-  - [ ] The speed at wwhich it's moving(If in motion
+  - [ ] The speed at wwhich it's moving(If in motion)
+  - [ ] Temperature of the sarounding area
 - [ ] Collect data and improve the system
 - [ ] Use a more portable device for easy use and carry
 
